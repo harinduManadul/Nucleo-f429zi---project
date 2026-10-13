@@ -1,0 +1,3 @@
+../Core/Src/s1234567_hamming.c:36:9:hamming_hbyte_encoder	2
+../Core/Src/s1234567_hamming.c:72:10:hamming_byte_encoder	1
+../Core/Src/s1234567_hamming.c:90:6:hamming_buffer_encode	2

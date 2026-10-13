@@ -1,0 +1,2 @@
+../Core/Src/oled_string.c:16:6:ssd1306_WriteChar	32	static
+../Core/Src/oled_string.c:29:6:ssd1306_WriteString	24	static

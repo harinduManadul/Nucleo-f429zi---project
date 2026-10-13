@@ -1,0 +1,15 @@
+../Core/Src/nrf24l01plus_hal_tx.c:63:13:delay_us	24	static
+../Core/Src/nrf24l01plus_hal_tx.c:77:13:nrf_GPIO_Init	48	static
+../Core/Src/nrf24l01plus_hal_tx.c:144:13:nrf_SPI_Init	16	static
+../Core/Src/nrf24l01plus_hal_tx.c:170:13:nrf_TIM_Init	40	static
+../Core/Src/nrf24l01plus_hal_tx.c:214:16:nrf24l01plus_hal_spi_SendRecv	32	static
+../Core/Src/nrf24l01plus_hal_tx.c:227:13:nrf24l01plus_hal_cmd	16	static
+../Core/Src/nrf24l01plus_hal_tx.c:242:13:nrf24l01plus_hal_wr	16	static
+../Core/Src/nrf24l01plus_hal_tx.c:257:16:nrf24l01plus_hal_rr	24	static
+../Core/Src/nrf24l01plus_hal_tx.c:274:13:nrf24l01plus_hal_wb	32	static
+../Core/Src/nrf24l01plus_hal_tx.c:303:22:nrf24l01plus_hal_rb	40	static
+../Core/Src/nrf24l01plus_hal_tx.c:327:6:nrf24l01plus_hal_init	8	static
+../Core/Src/nrf24l01plus_hal_tx.c:378:6:nrf24l01plus_hal_send_mode	8	static
+../Core/Src/nrf24l01plus_hal_tx.c:389:9:nrf24l01plus_hal_send	24	static
+../Core/Src/nrf24l01plus_hal_tx.c:433:9:nrf24l01plus_hal_txFifoEmpty	16	static
+../Core/Src/nrf24l01plus_hal_tx.c:444:6:nrf24l01plus_hal_flush_tx	8	static

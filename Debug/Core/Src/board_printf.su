@@ -1,0 +1,2 @@
+../Core/Src/board_printf.c:8:6:board_printf_init	40	static
+../Core/Src/board_printf.c:61:1:__io_putchar	16	static

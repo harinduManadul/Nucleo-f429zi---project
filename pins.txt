@@ -1,0 +1,38 @@
+CN?-?, PE9, LAB PB0 pushbutton (CMD) - EXTI
+CN?-?, PE11, LAB PB3 pushbutton (EXE) - EXTI
+CN?-?, PE2, Lab switch SW0 (VALUE bit 0)
+CN?-?, PE4, Lab switch SW1 (VALUE bit 1)
+CN?-?, PE5, Lab switch SW2 (VALUE bit 2)
+CN?-?, PE6, Lab switch SW3 (VALUE bit 3)
+CN?-?, PE7, LTA1000G LED bar segment 0
+CN?-?, PE8, LTA1000G LED bar segment 1
+CN?-?, PE10, LTA1000G LED bar segment 2
+CN?-?, PE12, LTA1000G LED bar segment 3
+CN?-?, PE13, LTA1000G LED bar segment 4
+CN?-?, PE14, LTA1000G LED bar segment 5
+CN?-?, PE15, LTA1000G LED bar segment 6
+CN?-?, PF13, LTA1000G LED bar segment 7
+CN?-?, PF14, LTA1000G LED bar segment 8
+CN?-?, PG0, LTA1000G LED bar segment 9
+CN?-?, PD0, Seven segment a
+CN?-?, PD1, Seven segment b
+CN?-?, PD2, Seven segment c
+CN?-?, PD3, Seven segment d
+CN?-?, PD4, Seven segment e
+CN?-?, PD5, Seven segment f
+CN?-?, PD6, Seven segment g
+CN?-?, PD7, Seven segment dp
+CN?-?, PG2, Seven segment digit 0 select (units)
+CN?-?, PG3, Seven segment digit 1 select (tens)
+CN?-?, PE3, Seven segment digit 2 select (hundreds)
+CN?-?, PB9, OLED I2C1 SDA
+CN?-?, PB8, OLED I2C1 SCL
+CN?-?, PB10, nRF24L01+ SPI2 SCK (driver owned)
+CN?-?, PC2, nRF24L01+ SPI2 MISO (driver owned)
+CN?-?, PC3, nRF24L01+ SPI2 MOSI (driver owned)
+CN?-?, PB12, nRF24L01+ CSN (driver owned)
+CN?-?, PF15, nRF24L01+ CE (driver owned)
+ST-LINK VCP, PD8, board_printf USART3 TX
+ST-LINK VCP, PD9, board_printf USART3 RX
+LD1, PB0, Devboard GREEN LED - toggles on any lab pushbutton press
+LD3, PB14, Devboard RED LED - toggles on each radio packet sent
